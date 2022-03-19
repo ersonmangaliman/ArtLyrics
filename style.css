@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+background: #000;
+
+
+
+}
+P{
+    font-size: 10px;
+    line-height: 10px;
+    text-align: justify;
+    background: url(AJ1.jpg);
+    background-attachment: fixed;
+    -webkit-background-size: auto;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(139, 11, 11, 0);
+     
+
+}
